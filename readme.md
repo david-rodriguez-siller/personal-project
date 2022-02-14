@@ -12,9 +12,15 @@
 
  ### Project Goal
 
+ - The goal of this project is to analyze a time series dataset along with drilling down into the details and identifying key segment areas, key product lines, what sales are by location, etc.
+
  ### Project Description
 
  ### Initial Questions
+ 1. What are the most popular/profitable product lines?
+ 2. What are the sales cycles like and how do they differ between each segment?
+ 3. What regions/states generate the most sales?
+ 4. What is the proportion of each clientele segments and what do they buy the most?
 
  ### Data Dictionary
 
